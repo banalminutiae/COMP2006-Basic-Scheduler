@@ -1,2 +1,2 @@
 # Basic-Scheduler
-Implementation of job scheduler using Pthreads using an elevator metaphor.
+Implementation of job scheduler with Pthreads using an elevator metaphor.
